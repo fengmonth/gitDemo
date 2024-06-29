@@ -5,5 +5,5 @@ hello feng! hello xiaoke!
 hello feng! hello xiaoke!
 hello feng! hello xiaoke!
 hello feng! hello xiaoke! hello
-hello feng! hello xiaoke! master test
+hello feng! hello xiaoke!
 hello feng! hello xiaoke! hotfix test
